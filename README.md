@@ -1,4 +1,4 @@
-# Barking Dog
+learn # Barking Dog
 
 ## Objectives
 
